@@ -1,0 +1,3 @@
+&i2s1 {
+    status = "okay";
+};
