@@ -96,18 +96,6 @@ $$E_b = \\sum_{f_k \\in \\text{band}_b} |X[k]|^2 \\quad \\text{for } b = 1, 2, \
 
 ---
 
-## 6. Project Team & Contributions
-
-* **Kapilmeet Singh** (Team Leader) – Embedded Firmware, Dual-Core IPC RouterBridge, & Edge AI Deployment (`kapilmeet.mitmpl2025@learner.manipal.edu`)
-* **Nikunj Singhal** – Microcontroller Hardware Drivers, Zephyr RTOS Fast ADC & DMA Subsystem (`nikunj1.mitmpl2025@learner.manipal.edu`)
-* **Jaishnu R** – Hydrodynamic Flow Analysis, Net Positive Suction Head (NPSH) Modeling & Fluid Testing (`jaishnu.mitmpl2025@learner.manipal.edu`)
-* **Tanay Savio Saldanha** – IoT Telemetry Architecture, SCADA HMI Web Interface & Data Logging (`tanay.mitmpl2025@learner.manipal.edu`)
-* **Daivik Neogi** – Acoustic Signal Conditioning, Transducer Mounting & Mechanical Rig Design (`daivik.mitmpl2025@learner.manipal.edu`)
-* **Shreya Verma** – System Architecture & Signal Processing Validation
-* **Tanya Singh** – Analog Front-End PCB Design, Overvoltage Protection & Sensor Interfacing
-* **Aashita Gupta** – Machine Learning Model Training, Hyperparameter Tuning & Cross-Validation
-
----
 
 ## 7. License
 Licensed under the Apache 2.0 License - Open Source for Agricultural and Industrial Sustainability.
